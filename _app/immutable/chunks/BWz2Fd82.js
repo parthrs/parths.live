@@ -1,0 +1,1 @@
+const e={title:"parths.live",description:"parths.live",author:"Parth Shah",email:"tuna-whistle-0c@icloud.com",disclaimer:"The views expressed here are my own and are not affiliated with my current or former employers"},t={navLinks:[{href:"/about",title:"About"},{href:"/notes",title:"Notes"}]};export{t as c,e as s};
